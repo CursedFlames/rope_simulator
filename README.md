@@ -15,15 +15,15 @@ Depending on your browser, opening index.html directly might not work, due to fa
 
 Also note that pixi.js's ticker seems to busy wait and max out a CPU core, so this thing will max out one of your cores while it's open. I should probably fix that at some point.
 
-P: pause/unpause
-C: toggle auto-connect to newly created points
-O: toggle repulsion when links become smaller than their base length
+P: pause/unpause  
+C: toggle auto-connect to newly created points  
+O: toggle repulsion when links become smaller than their base length  
 
-Left click: new point
-Shift+left click: new anchor
-click on one point with another selected to connect them
+Left click: new point  
+Shift+left click: new anchor  
+click on one point with another selected to connect them  
 
-Right click to remove points
-Hold right click to cut through links
+Right click to remove points  
+Hold right click to cut through links  
 
-Escape to deselect the currently selected point
+Escape to deselect the currently selected point  
