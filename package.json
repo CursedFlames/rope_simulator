@@ -1,0 +1,27 @@
+{
+	"main": "main.js",
+	"devDependencies": {
+		"@types/node": "^12.6.3",
+		"@zerollup/ts-transform-paths": "^1.7.3",
+		"free-tex-packer-cli": "^0.2.6",
+		"glslify": "^7.0.0",
+		"gulp": "^4.0.2",
+		"gulp-run-command": "0.0.10",
+		"imports-loader": "^0.8.0",
+		"ts-node": "^8.6.2",
+		"ttypescript": "^1.5.7",
+		"typescript": "^3.0.3",
+		"webpack": "^4.17.2",
+		"webpack-cli": "^3.1.0",
+		"wrapper-webpack-plugin": "^2.1.0"
+	},
+	"dependencies": {
+		"pixi.js": "^5.2.1",
+		"plugin-error": "^1.0.1",
+		"ts-loader": "^6.0.4",
+		"yy-intersects": "^1.0.8"
+	},
+	"scripts": {
+		"build": "gulp"
+	}
+}
