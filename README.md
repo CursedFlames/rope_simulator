@@ -5,7 +5,7 @@ There's a lot of useless code in here since I copy-pasted from an old project an
 
 Unused font that's sitting in the assets folder in case I use it in future is [m5x7 by Daniel Linssen](https://managore.itch.io/m5x7).
 
-Available on [github pages](http://cursedflames.github.io/rope_simulator/index.html), or, to run it yourself:
+Available on [github pages](https://cursedflames.github.io/rope_simulator/index.html), or, to run it yourself:
 
 Installation: `npm install`
 
